@@ -1,17 +1,17 @@
-,Unnamed: 0.7,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Name,Year,Month,Day,Hour,Minute,OS,RAM Usage,EXE,Window,Last Page,0,0.1,0.2,0.3,0.4,0.5,0.6,0
-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-1,1.0,1.0,1.0,1.0,1.0,1.0,0.0,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 27, 'Windows', 73.736, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,,,,,,
-2,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,,,,,,,,,,,,,,,
-3,3.0,3.0,3.0,3.0,3.0,0.0,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 28, 'Windows', 73.195, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,,,,,
-4,4.0,4.0,4.0,4.0,4.0,,,,,,,,,,,,,,,,,,,,,,
-5,5.0,5.0,5.0,5.0,0.0,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 29, 'Windows', 72.592, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,,,,
-6,6.0,6.0,6.0,6.0,,,,,,,,,,,,,,,,,,,,,,,
-7,7.0,7.0,7.0,0.0,,,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 30, 'Windows', 72.715, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,,,
-8,8.0,8.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,
-9,9.0,9.0,0.0,,,,,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 31, 'Windows', 72.609, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,,
-10,10.0,10.0,,,,,,,,,,,,,,,,,,,,,,,,,
-11,11.0,0.0,,,,,,,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 32, 'Windows', 72.986, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",,
-12,12.0,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,0.0,,,,,,,,,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 33, 'Windows', 71.915, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']",
-14,,,,,,,,,,,,,,,,,,,,,,,,,,,
-0,,,,,,,,,,,,,,,,,,,,,,,,,,,"['Evan', 2024, 10, 25, 14, 34, 'Windows', 71.72, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'selfservice.eastern.edu']"
+Name,Year,Month,Day,Hour,Minute,OS,RAM Usage,EXE,Window,Last Page
+'Evan', 2024, 10, 26, 12, 53, 'Windows', 76.291, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'www.google.com'
+'Evan', 2024, 10, 26, 12, 55, 'Windows', 75.778, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'www.google.com'
+'Evan', 2024, 10, 26, 12, 56, 'Windows', 76.606, 'C:\\Users\\3vanm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'ML-Data Collector', 'www.google.com'
+'Evan', 2024, 10, 26, 12, 57, 'Windows', 78.839, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'Adobe Illustrator 2024', 'www.google.com'
+'Evan', 2024, 10, 26, 12, 58, 'Windows', 79.485, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'Open', 'www.google.com'
+'Evan', 2024, 10, 26, 12, 59, 'Windows', 83.614, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'New Document', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 0, 'Windows', 81.634, 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', 'Table of Contents - 2024FA Intro to Computer Graphics (FAPA-160-2) - Google Chrome', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 1, 'Windows', 84.834, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'DVD-CASE* @ 77.62 % (CMYK/CPU Preview) ', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 2, 'Windows', 82.165, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'DVD-CASE* @ 77.62 % (CMYK/CPU Preview) ', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 3, 'Windows', 82.257, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'DVD-CASE* @ 77.62 % (CMYK/CPU Preview) ', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 4, 'Windows', 81.277, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'DVD-CASE* @ 80.68 % (CMYK/CPU Preview) ', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 5, 'Windows', 81.84, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'Adobe Illustrator 2024', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 6, 'Windows', 82.778, 'C:\\Program Files\\Adobe\\Adobe Illustrator 2024\\Support Files\\Contents\\Windows\\Illustrator.exe', 'Save As', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 9, 'Windows', 82.459, 'C:\\Program Files\\Image-Line\\FL Studio 20\\FL64.exe', 'FL Studio 20', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 10, 'Windows', 82.289, 'C:\\Program Files\\Image-Line\\FL Studio 20\\FL64.exe', 'FL Studio 20', 'www.google.com'
+'Evan', 2024, 10, 26, 13, 11, 'Windows', 82.191, 'C:\\Program Files\\Image-Line\\FL Studio 20\\FL64.exe', 'FL Studio 20', 'www.google.com'

@@ -1,6 +1,5 @@
 import socket
 import pickle
-import numpy as np
 import pandas as pd
 
 HOST = "10.242.13.10"
@@ -14,15 +13,11 @@ while True:
 	data = conn.recv(4096)
 	row = pickle.loads(data)
 
-	logger = pd.read_csv("Log.csv")
-	appending = pd.Series([row])
-
-	S = logger.loc[len(logger)] = appending
-	l = pd.concat([logger, S])
-	l.to_csv('Log.csv')
+	logger = open("Log.csv", "a")
+	logger.write("\n"+str(row)[1:-1])
+	logger.close()
 	conn.send(data)
-	print (row)
-	print (logger)
-	print (S)
-	print (l)
+
+
+
 conn.close()
